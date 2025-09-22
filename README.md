@@ -2,7 +2,7 @@
 🎖️ U.S. Army Veteran | 🖥️ Cybersecurity Graduate | 🛰️ SOC Analyst in the Making  
 
 Welcome to my GitHub!  
-I’m a graduate with a strong IT foundation from my time as a U.S. Army Signaleer and my hands-on cybersecurity projects. My mission is clear:  
+I’m a recent graduate with a strong IT foundation from my time as a U.S. Army Signaleer and my hands-on cybersecurity projects. My mission is clear:  
 👉 Defend systems. Detect threats. Stay ahead of adversaries.  
 
 ---
