@@ -17,9 +17,8 @@ I’m a recent graduate with a strong IT foundation from my time as a U.S. Army 
 ---
 
 ## 🔬 Current Projects  
-🍯 **AWS Wazuh SIEM** → Capstone project focused on reducing false positives and enhancing threat detection.  
-⚔️ **SOC Lab Environment** → Practicing log analysis, threat hunting, SIEM queries, and alert triage in a SOC-like setup.  
-🧪 **Threat Simulation & Detection** → Testing attacker techniques (red team style) and defending using Wazuh and Suricata.  
+🍯 [**AWS Wazuh SIEM**](https://github.com/djhyunkim/Wazuh-SIEM-EC2) → Capstone project focused on reducing false positives and enhancing threat detection.  
+⚔️ [**SOC Lab Environment**](https://github.com/djhyunkim/SOC-Azure-Honeypot) → Practicing log analysis, threat hunting, SIEM queries, and alert triage in a SOC-like setup.  
 
 ---
 
@@ -39,24 +38,3 @@ I’m documenting my journey, labs, and career growth to help inspire others bre
 📎 [LinkedIn](https://www.linkedin.com/in/djhyunkim/)
 
 ✨ “Cybersecurity isn’t just a career — it’s a mission. Every log tells a story, and I’m here to uncover it.” ✨  
-
-
-
-
-
-
-
-<!--
-**djhyunkim/djhyunkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
